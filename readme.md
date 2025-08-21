@@ -39,19 +39,7 @@ Welcome to my **Data Science 24‑Week Journey** — a structured, hands‑on le
 
 ---
 
-## 📂 Repository Structure
 
-```
-datascience/
-│
-├── week_01_04_python_basics/
-├── week_05_08_eda_stats_viz/
-├── week_09_12_sql_data/
-├── week_13_16_ml_foundations/
-├── week_17_20_end_to_end/
-├── week_21_24_portfolio_resume/
-└── README.md
-```
 
 ---
 
