@@ -1,4 +1,19 @@
+📁 Project Structure Highlights
+This project includes two key files that help map each project to its learning goals:
+| File Name | Purpose | 
+| skill.txt | Lists the core skills or concepts covered in each project. | 
+| explanation.txt | Provides beginner-friendly explanations and context for each project. | 
 
+
+These files are designed to support learners by:
+- 🧠 Clarifying what you're learning and why it matters
+- 🛠️ Connecting each project to real-world applications
+- 🗺️ Helping mentors and educators track progress and guide learners
+
+🔍 Example Mapping
+Project: Week-1/TextAnalysis
+skill.txt: "Basic string manipulation, file I/O, Unicode handling"
+explanation.txt: "This project introduces text analysis using Python. Learners explore how to read files, clean text, and handle encoding errors like UnicodeEncodeError."
 
 ```markdown
 # 📊 24‑Week Data Science Mastery Plan
